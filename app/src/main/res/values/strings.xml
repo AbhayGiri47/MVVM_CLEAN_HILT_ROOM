@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM CLEAN HILT ROOM</string>
+    <string name="api_call_success">Api Call Success</string>
+</resources>
